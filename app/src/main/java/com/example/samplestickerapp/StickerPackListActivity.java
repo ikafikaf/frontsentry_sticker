@@ -10,13 +10,16 @@ package com.example.samplestickerapp;
 
 import android.os.AsyncTask;
 import android.os.Bundle;
+import android.util.Log;
 
 import androidx.recyclerview.widget.DividerItemDecoration;
 import androidx.recyclerview.widget.LinearLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
 
+import com.google.android.gms.ads.AdListener;
 import com.google.android.gms.ads.AdRequest;
 import com.google.android.gms.ads.AdView;
+import com.google.android.gms.ads.InterstitialAd;
 import com.google.android.gms.ads.MobileAds;
 import com.google.android.gms.ads.initialization.InitializationStatus;
 import com.google.android.gms.ads.initialization.OnInitializationCompleteListener;
@@ -36,6 +39,7 @@ public class StickerPackListActivity extends AddStickerPackActivity {
     private WhiteListCheckAsyncTask whiteListCheckAsyncTask;
     private ArrayList<StickerPack> stickerPackList;
     private AdView mAdView;
+    private InterstitialAd mInterstitialAd;
 
 
     @Override
@@ -43,11 +47,7 @@ public class StickerPackListActivity extends AddStickerPackActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_sticker_pack_list);
         packRecyclerView = findViewById(R.id.sticker_pack_list);
-        stickerPackList = getIntent().getParcelableArrayListExtra(EXTRA_STICKER_PACK_LIST_DATA);
-        showStickerPackList(stickerPackList);
-        if (getSupportActionBar() != null) {
-            getSupportActionBar().setTitle(getResources().getQuantityString(R.plurals.title_activity_sticker_packs_list, stickerPackList.size()));
-        }
+
 
         MobileAds.initialize(this, new OnInitializationCompleteListener() {
             @Override
@@ -58,6 +58,28 @@ public class StickerPackListActivity extends AddStickerPackActivity {
         mAdView = findViewById(R.id.adView);
         AdRequest adRequest = new AdRequest.Builder().build();
         mAdView.loadAd(adRequest);
+
+        mInterstitialAd = new InterstitialAd(this);
+        mInterstitialAd.setAdUnitId(getString(R.string.admob_interstitial_ad));
+        mInterstitialAd.loadAd(new AdRequest.Builder().build());
+
+        mInterstitialAd.setAdListener(new AdListener() {
+            @Override
+            public void onAdLoaded() {
+                if (mInterstitialAd.isLoaded()) {
+                    mInterstitialAd.show();
+                } else {
+                    Log.d("TAG", "onAdLoaded: not loaded yet ");
+                }
+            }
+        });
+
+        stickerPackList = getIntent().getParcelableArrayListExtra(EXTRA_STICKER_PACK_LIST_DATA);
+        showStickerPackList(stickerPackList);
+        if (getSupportActionBar() != null) {
+            getSupportActionBar().setTitle(getResources().getQuantityString(R.plurals.title_activity_sticker_packs_list, stickerPackList.size()));
+        }
+
     }
 
     @Override
