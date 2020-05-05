@@ -8,9 +8,9 @@
         android:name=".StickerApplication"
         android:allowBackup="false"
         android:fullBackupContent="false"
-        android:icon="@mipmap/ic_launcher_frontsentry"
+        android:icon="@mipmap/ic_new_logo_round"
         android:label="Kumpulan Stickers Lucu Apps for WhatsApp"
-        android:roundIcon="@mipmap/ic_launcher_frontsentry_round"
+        android:roundIcon="@mipmap/ic_new_logo_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme"
         tools:ignore="GoogleAppIndexingWarning">
