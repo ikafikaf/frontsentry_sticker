@@ -1,5 +1,5 @@
 {
-  "android_play_store_link": "",
+  "android_play_store_link": "https://play.google.com/store/apps/details?id=id.frontsentry.stickerApp",
   "ios_app_store_link": "",
   "sticker_packs": [
     {
@@ -673,6 +673,13 @@
           ]
         },
         {
+          "image_file": "newslucu13.webp",
+          "emojis": [
+            "🤔",
+            "😐"
+          ]
+        },
+        {
           "image_file": "slucu2.webp",
           "emojis": [
             "😄",
@@ -681,6 +688,13 @@
         },
         {
           "image_file": "slucu3.webp",
+          "emojis": [
+            "😄",
+            "😀"
+          ]
+        },
+        {
+          "image_file": "newslucu20.webp",
           "emojis": [
             "😄",
             "😀"
@@ -750,13 +764,6 @@
           ]
         },
         {
-          "image_file": "newslucu13.webp",
-          "emojis": [
-            "🤔",
-            "😐"
-          ]
-        },
-        {
           "image_file": "slucu14.webp",
           "emojis": [
             "😄",
@@ -793,13 +800,6 @@
         },
         {
           "image_file": "slucu19.webp",
-          "emojis": [
-            "😄",
-            "😀"
-          ]
-        },
-        {
-          "image_file": "newslucu20.webp",
           "emojis": [
             "😄",
             "😀"
@@ -979,7 +979,7 @@
       "identifier": "versionEight",
       "name": "Anime 1",
       "publisher": "Sticker 8",
-      "tray_image_file": "versionSix_icon.png",
+      "tray_image_file": "versionEight_icon.png",
       "image_data_version": "1",
       "avoid_cache": false,
       "publisher_email": "",
@@ -1045,6 +1045,72 @@
         },
         {
           "image_file": "anime12.webp",
+          "emojis": [ "😭", "💧" ]
+        }
+      ]
+    },
+    {
+      "identifier": "versionNine",
+      "name": "Anime 2",
+      "publisher": "Sticker 9",
+      "tray_image_file": "versionNine_icon.png",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "anime2_1.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "anime2_2.webp",
+          "emojis": [
+            "😄",
+            "😀"
+          ]
+        },
+        {
+          "image_file": "anime2_3.webp",
+          "emojis": [
+            "😆",
+            "😂"
+          ]
+        },
+        {
+          "image_file": "anime2_4.webp",
+          "emojis": [
+            "😩",
+            "😰"
+          ]
+        },
+        {
+          "image_file": "anime2_5.webp",
+          "emojis": [ "😭", "💧" ]
+        },
+        {
+          "image_file": "anime2_6.webp",
+          "emojis": [ "😭", "💧" ]
+        },
+        {
+          "image_file": "anime2_7.webp",
+          "emojis": [ "😭", "💧" ]
+        },
+        {
+          "image_file": "anime2_8.webp",
+          "emojis": [ "😭", "💧" ]
+        },
+        {
+          "image_file": "anime2_9.webp",
+          "emojis": [ "😭", "💧" ]
+        },
+        {
+          "image_file": "anime2_10.webp",
           "emojis": [ "😭", "💧" ]
         }
       ]
