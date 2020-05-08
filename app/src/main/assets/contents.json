@@ -123,366 +123,9 @@
     },
     {
       "identifier": "versionTwo",
-      "name": "Meme wiki 1",
+      "name": "Kocak 1",
       "publisher": "Sticker 2",
       "tray_image_file": "versionTwo_icon.png",
-      "image_data_version": "1",
-      "avoid_cache": false,
-      "publisher_email": "",
-      "publisher_website": "",
-      "privacy_policy_website": "",
-      "license_agreement_website": "",
-      "stickers": [
-        {
-          "image_file": "wiki-1.webp",
-          "emojis": [
-            "☕",
-            "🙂"
-          ]
-        },
-        {
-          "image_file": "wiki-2.webp",
-          "emojis": [
-            "😄",
-            "😀"
-          ]
-        },
-        {
-          "image_file": "wiki-3.webp",
-          "emojis": [
-            "😆",
-            "😂"
-          ]
-        },
-        {
-          "image_file": "wiki-4.webp",
-          "emojis": [
-            "😩",
-            "😰"
-          ]
-        },
-        {
-          "image_file": "wiki-5.webp",
-          "emojis": [
-            "😭",
-            "💧"
-          ]
-        },
-        {
-          "image_file": "wiki-6.webp",
-          "emojis": [
-            "😍",
-            "♥"
-          ]
-        },
-        {
-          "image_file": "wiki-7.webp",
-          "emojis": [
-            "💔",
-            "👎"
-          ]
-        },
-        {
-          "image_file": "wiki-8.webp",
-          "emojis": [
-            "😍",
-            "💑"
-          ]
-        },
-        {
-          "image_file": "wiki-9.webp",
-          "emojis": [
-            "😘",
-            "🍪"
-          ]
-        },
-        {
-          "image_file": "wiki-10.webp",
-          "emojis": [
-            "🤔",
-            "😐"
-          ]
-        },
-        {
-          "image_file": "wiki-11.webp",
-          "emojis": [
-            "😱",
-            "😵"
-          ]
-        },
-        {
-          "image_file": "wiki-12.webp",
-          "emojis": [
-            "😡",
-            "😠"
-          ]
-        },
-        {
-          "image_file": "wiki-13.webp",
-          "emojis": [
-            "❓",
-            "🤔"
-          ]
-        },
-        {
-          "image_file": "wiki-14.webp",
-          "emojis": [
-            "🌈",
-            "😜"
-          ]
-        },
-        {
-          "image_file": "wiki-15.webp",
-          "emojis": [
-            "💻",
-            "😩"
-          ]
-        },
-        {
-          "image_file": "wiki-16.webp",
-          "emojis": [
-            "😡",
-            "😤"
-          ]
-        },
-        {
-          "image_file": "wiki-17.webp",
-          "emojis": [
-            "😩",
-            "😨"
-          ]
-        },
-        {
-          "image_file": "wiki-18.webp",
-          "emojis": [
-            "💻",
-            "🌃"
-          ]
-        }
-      ]
-    },
-    {
-      "identifier": "versionThree",
-      "name": "Meme wiki 2",
-      "publisher": "Sticker 3",
-      "tray_image_file": "versionThree_icon.png",
-      "image_data_version": "1",
-      "avoid_cache": false,
-      "publisher_email": "",
-      "publisher_website": "",
-      "privacy_policy_website": "",
-      "license_agreement_website": "",
-      "stickers": [
-        {
-          "image_file": "wiki-19.webp",
-          "emojis": [
-            "☕",
-            "🙂"
-          ]
-        },
-        {
-          "image_file": "wiki-20.webp",
-          "emojis": [
-            "😄",
-            "😀"
-          ]
-        },
-        {
-          "image_file": "wiki-21.webp",
-          "emojis": [
-            "😆",
-            "😂"
-          ]
-        },
-        {
-          "image_file": "wiki-22.webp",
-          "emojis": [
-            "😩",
-            "😰"
-          ]
-        },
-        {
-          "image_file": "wiki-23.webp",
-          "emojis": [
-            "😭",
-            "💧"
-          ]
-        },
-        {
-          "image_file": "wiki-24.webp",
-          "emojis": [
-            "😍",
-            "♥"
-          ]
-        },
-        {
-          "image_file": "wiki-25.webp",
-          "emojis": [
-            "💔",
-            "👎"
-          ]
-        },
-        {
-          "image_file": "wiki-26.webp",
-          "emojis": [
-            "😍",
-            "💑"
-          ]
-        },
-        {
-          "image_file": "wiki-27.webp",
-          "emojis": [
-            "😘",
-            "🍪"
-          ]
-        },
-        {
-          "image_file": "wiki-28.webp",
-          "emojis": [
-            "🤔",
-            "😐"
-          ]
-        },
-        {
-          "image_file": "wiki-29.webp",
-          "emojis": [
-            "😱",
-            "😵"
-          ]
-        },
-        {
-          "image_file": "wiki-30.webp",
-          "emojis": [
-            "😡",
-            "😠"
-          ]
-        },
-        {
-          "image_file": "wiki-31.webp",
-          "emojis": [
-            "❓",
-            "🤔"
-          ]
-        },
-        {
-          "image_file": "wiki-32.webp",
-          "emojis": [
-            "🌈",
-            "😜"
-          ]
-        },
-        {
-          "image_file": "wiki-33.webp",
-          "emojis": [
-            "💻",
-            "😩"
-          ]
-        },
-        {
-          "image_file": "wiki-34.webp",
-          "emojis": [
-            "😡",
-            "😤"
-          ]
-        },
-        {
-          "image_file": "wiki-35.webp",
-          "emojis": [
-            "😩",
-            "😨"
-          ]
-        }
-      ]
-    },
-    {
-      "identifier": "versionFour",
-      "name": "Hijab Spesial Ramadhan",
-      "publisher": "Sticker 4",
-      "tray_image_file": "versionFour_icon.png",
-      "image_data_version": "1",
-      "avoid_cache": false,
-      "publisher_email": "",
-      "publisher_website": "",
-      "privacy_policy_website": "",
-      "license_agreement_website": "",
-      "stickers": [
-        {
-          "image_file": "ramadhan_1.webp",
-          "emojis": [
-            "☕",
-            "🙂"
-          ]
-        },
-        {
-          "image_file": "ramadhan_2.webp",
-          "emojis": [
-            "😄",
-            "😀"
-          ]
-        },
-        {
-          "image_file": "ramadhan_3.webp",
-          "emojis": [
-            "😆",
-            "😂"
-          ]
-        },
-        {
-          "image_file": "ramadhan_4.webp",
-          "emojis": [
-            "😩",
-            "😰"
-          ]
-        },
-        {
-          "image_file": "ramadhan_5.webp",
-          "emojis": [
-            "😭",
-            "💧"
-          ]
-        },
-        {
-          "image_file": "ramadhan_6.webp",
-          "emojis": [
-            "😍",
-            "♥"
-          ]
-        },
-        {
-          "image_file": "ramadhan_7.webp",
-          "emojis": [
-            "💔",
-            "👎"
-          ]
-        },
-        {
-          "image_file": "ramadhan_8.webp",
-          "emojis": [
-            "😍",
-            "💑"
-          ]
-        },
-        {
-          "image_file": "ramadhan_9.webp",
-          "emojis": [
-            "😘",
-            "🍪"
-          ]
-        },
-        {
-          "image_file": "ramadhan_10.webp",
-          "emojis": [
-            "🤔",
-            "😐"
-          ]
-        }
-      ]
-    },
-    {
-      "identifier": "versionFive",
-      "name": "Kocak 1",
-      "publisher": "Sticker 5",
-      "tray_image_file": "versionFive_icon.png",
       "image_data_version": "1",
       "avoid_cache": false,
       "publisher_email": "",
@@ -654,10 +297,10 @@
       ]
     },
     {
-      "identifier": "versionSix",
+      "identifier": "versionThree",
       "name": "Kocak 2",
-      "publisher": "Sticker 6",
-      "tray_image_file": "versionSix_icon.png",
+      "publisher": "Sticker 3",
+      "tray_image_file": "versionThree_icon.png",
       "image_data_version": "1",
       "avoid_cache": false,
       "publisher_email": "",
@@ -843,10 +486,10 @@
       ]
     },
     {
-      "identifier": "versionSeven",
+      "identifier": "versionFour",
       "name": "Kocak 3",
-      "publisher": "Sticker 7",
-      "tray_image_file": "versionSeven_icon.png",
+      "publisher": "Sticker 4",
+      "tray_image_file": "versionFour_icon.png",
       "image_data_version": "1",
       "avoid_cache": false,
       "publisher_email": "",
@@ -976,10 +619,479 @@
       ]
     },
     {
+      "identifier": "versionFive",
+      "name": "Hijab Spesial Ramadhan",
+      "publisher": "Sticker 5",
+      "tray_image_file": "versionFive_icon.png",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "ramadhan_1.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "ramadhan_2.webp",
+          "emojis": [
+            "😄",
+            "😀"
+          ]
+        },
+        {
+          "image_file": "ramadhan_3.webp",
+          "emojis": [
+            "😆",
+            "😂"
+          ]
+        },
+        {
+          "image_file": "ramadhan_4.webp",
+          "emojis": [
+            "😩",
+            "😰"
+          ]
+        },
+        {
+          "image_file": "ramadhan_5.webp",
+          "emojis": [
+            "😭",
+            "💧"
+          ]
+        },
+        {
+          "image_file": "ramadhan_6.webp",
+          "emojis": [
+            "😍",
+            "♥"
+          ]
+        },
+        {
+          "image_file": "ramadhan_7.webp",
+          "emojis": [
+            "💔",
+            "👎"
+          ]
+        },
+        {
+          "image_file": "ramadhan_8.webp",
+          "emojis": [
+            "😍",
+            "💑"
+          ]
+        },
+        {
+          "image_file": "ramadhan_9.webp",
+          "emojis": [
+            "😘",
+            "🍪"
+          ]
+        },
+        {
+          "image_file": "ramadhan_10.webp",
+          "emojis": [
+            "🤔",
+            "😐"
+          ]
+        }
+      ]
+    },
+    {
+      "identifier": "versionSix",
+      "name": "Betawi Punya Gaye",
+      "publisher": "Sticker 6",
+      "tray_image_file": "versionSix_icon.png",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "betawi1.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "betawi2.webp",
+          "emojis": [
+            "😄",
+            "😀"
+          ]
+        },
+        {
+          "image_file": "betawi3.webp",
+          "emojis": [
+            "😆",
+            "😂"
+          ]
+        },
+        {
+          "image_file": "betawi4.webp",
+          "emojis": [
+            "😩",
+            "😰"
+          ]
+        },
+        {
+          "image_file": "betawi5.webp",
+          "emojis": [
+            "😭",
+            "💧"
+          ]
+        },
+        {
+          "image_file": "betawi6.webp",
+          "emojis": [
+            "😍",
+            "♥"
+          ]
+        },
+        {
+          "image_file": "betawi7.webp",
+          "emojis": [
+            "💔",
+            "👎"
+          ]
+        },
+        {
+          "image_file": "betawi8.webp",
+          "emojis": [
+            "😍",
+            "💑"
+          ]
+        },
+        {
+          "image_file": "betawi9.webp",
+          "emojis": [
+            "😘",
+            "🍪"
+          ]
+        },
+        {
+          "image_file": "betawi10.webp",
+          "emojis": [
+            "🤔",
+            "😐"
+          ]
+        },
+        {
+          "image_file": "betawi11.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "betawi12.webp",
+          "emojis": [
+            "😡",
+            "😠"
+          ]
+        },
+        {
+          "image_file": "betawi13.webp",
+          "emojis": [
+            "❓",
+            "🤔"
+          ]
+        },
+        {
+          "image_file": "betawi14.webp",
+          "emojis": [
+            "🌈",
+            "😜"
+          ]
+        }
+      ]
+    },
+    {
+      "identifier": "versionSeven",
+      "name": "Meme wiki 1",
+      "publisher": "Sticker 7",
+      "tray_image_file": "versionSeven_icon.png",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "wiki-1.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "wiki-2.webp",
+          "emojis": [
+            "😄",
+            "😀"
+          ]
+        },
+        {
+          "image_file": "wiki-3.webp",
+          "emojis": [
+            "😆",
+            "😂"
+          ]
+        },
+        {
+          "image_file": "wiki-4.webp",
+          "emojis": [
+            "😩",
+            "😰"
+          ]
+        },
+        {
+          "image_file": "wiki-5.webp",
+          "emojis": [
+            "😭",
+            "💧"
+          ]
+        },
+        {
+          "image_file": "wiki-6.webp",
+          "emojis": [
+            "😍",
+            "♥"
+          ]
+        },
+        {
+          "image_file": "wiki-7.webp",
+          "emojis": [
+            "💔",
+            "👎"
+          ]
+        },
+        {
+          "image_file": "wiki-8.webp",
+          "emojis": [
+            "😍",
+            "💑"
+          ]
+        },
+        {
+          "image_file": "wiki-9.webp",
+          "emojis": [
+            "😘",
+            "🍪"
+          ]
+        },
+        {
+          "image_file": "wiki-10.webp",
+          "emojis": [
+            "🤔",
+            "😐"
+          ]
+        },
+        {
+          "image_file": "wiki-11.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "wiki-12.webp",
+          "emojis": [
+            "😡",
+            "😠"
+          ]
+        },
+        {
+          "image_file": "wiki-13.webp",
+          "emojis": [
+            "❓",
+            "🤔"
+          ]
+        },
+        {
+          "image_file": "wiki-14.webp",
+          "emojis": [
+            "🌈",
+            "😜"
+          ]
+        },
+        {
+          "image_file": "wiki-15.webp",
+          "emojis": [
+            "💻",
+            "😩"
+          ]
+        },
+        {
+          "image_file": "wiki-16.webp",
+          "emojis": [
+            "😡",
+            "😤"
+          ]
+        },
+        {
+          "image_file": "wiki-17.webp",
+          "emojis": [
+            "😩",
+            "😨"
+          ]
+        },
+        {
+          "image_file": "wiki-18.webp",
+          "emojis": [
+            "💻",
+            "🌃"
+          ]
+        }
+      ]
+    },
+    {
       "identifier": "versionEight",
-      "name": "Anime 1",
+      "name": "Meme wiki 2",
       "publisher": "Sticker 8",
       "tray_image_file": "versionEight_icon.png",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "wiki-19.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "wiki-20.webp",
+          "emojis": [
+            "😄",
+            "😀"
+          ]
+        },
+        {
+          "image_file": "wiki-21.webp",
+          "emojis": [
+            "😆",
+            "😂"
+          ]
+        },
+        {
+          "image_file": "wiki-22.webp",
+          "emojis": [
+            "😩",
+            "😰"
+          ]
+        },
+        {
+          "image_file": "wiki-23.webp",
+          "emojis": [
+            "😭",
+            "💧"
+          ]
+        },
+        {
+          "image_file": "wiki-24.webp",
+          "emojis": [
+            "😍",
+            "♥"
+          ]
+        },
+        {
+          "image_file": "wiki-25.webp",
+          "emojis": [
+            "💔",
+            "👎"
+          ]
+        },
+        {
+          "image_file": "wiki-26.webp",
+          "emojis": [
+            "😍",
+            "💑"
+          ]
+        },
+        {
+          "image_file": "wiki-27.webp",
+          "emojis": [
+            "😘",
+            "🍪"
+          ]
+        },
+        {
+          "image_file": "wiki-28.webp",
+          "emojis": [
+            "🤔",
+            "😐"
+          ]
+        },
+        {
+          "image_file": "wiki-29.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "wiki-30.webp",
+          "emojis": [
+            "😡",
+            "😠"
+          ]
+        },
+        {
+          "image_file": "wiki-31.webp",
+          "emojis": [
+            "❓",
+            "🤔"
+          ]
+        },
+        {
+          "image_file": "wiki-32.webp",
+          "emojis": [
+            "🌈",
+            "😜"
+          ]
+        },
+        {
+          "image_file": "wiki-33.webp",
+          "emojis": [
+            "💻",
+            "😩"
+          ]
+        },
+        {
+          "image_file": "wiki-34.webp",
+          "emojis": [
+            "😡",
+            "😤"
+          ]
+        },
+        {
+          "image_file": "wiki-35.webp",
+          "emojis": [
+            "😩",
+            "😨"
+          ]
+        }
+      ]
+    },
+    {
+      "identifier": "versionNine",
+      "name": "Anime 1",
+      "publisher": "Sticker 9",
+      "tray_image_file": "versionNine_icon.png",
       "image_data_version": "1",
       "avoid_cache": false,
       "publisher_email": "",
@@ -1050,10 +1162,10 @@
       ]
     },
     {
-      "identifier": "versionNine",
+      "identifier": "versionTen",
       "name": "Anime 2",
-      "publisher": "Sticker 9",
-      "tray_image_file": "versionNine_icon.png",
+      "publisher": "Sticker 10",
+      "tray_image_file": "versionTen_icon.png",
       "image_data_version": "1",
       "avoid_cache": false,
       "publisher_email": "",
